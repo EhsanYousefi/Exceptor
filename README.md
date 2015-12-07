@@ -40,7 +40,7 @@ class ExceptionHandler < Exceptor::Base
 end
 ```
 As you see, we can define a handler for all non-defined exceptions with `:default` argument.
-Also inside the block you can directly access to the instance which error raised on, and you can access block binding too(from context argument).
+Also inside the block you can directly access to the instance which error raised on(for example @instance_var), and you can access block binding too(from context argument, for example local_var).
 
 Ok, Let's use our `ExceptionHandler`:
 
