@@ -85,7 +85,7 @@ You can use [specs](https://github.com/EhsanYousefi/Exceptor/blob/master/spec/ex
 
 ## Rails users
 
-If you want to use Exceptor in a RoR application, [Check this out](https://github.com/EhsanYousefi/Exceptor/blob/master/ROR.md)
+If you want to use Exceptor in a RoR application, [Check this out](https://github.com/EhsanYousefi/Exceptor/blob/master/RAILS.md)
 
 ## Contributing
 
