@@ -1,4 +1,4 @@
-# Integrate Rails with Exceptor
+# Integrate Exceptor with Rails
 Exceptor is more flexible vs ActiveSupport::Rescuable & It's different in context.
 
 There is a great pattern that fits with RoR.
